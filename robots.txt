@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://strangermessage.github.io/a-message-to-a-stranger./sitemap.xml
